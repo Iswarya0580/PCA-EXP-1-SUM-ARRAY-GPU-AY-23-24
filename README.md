@@ -10,11 +10,13 @@ PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
 
 ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel to let each thread handle two elements. Compare the results with other execution confi gurations.
+
 ## AIM:
 
 To perform vector addition on host and device.
 
 ## EQUIPMENTS REQUIRED:
+
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
 
@@ -251,8 +253,10 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/3cb0c15a-b66f-42b9-983f-b2c4b5a6c3ae)
 
 
 ## RESULT:
+
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
