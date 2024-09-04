@@ -3,7 +3,7 @@
 <h3>NAME : ISWARYA P</h3>
 <h3>ENTER YOUR REGISTER NO : 212223230082</h3>
 <h3>EX.NO : 01</h3>
-<h3>DATE : 04-09-2024/h3>
+<h3>DATE : 04-09-2024</h3>
     
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
